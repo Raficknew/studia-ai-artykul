@@ -42,5 +42,4 @@ W ostatnim czasie github ma bardzo niską dostępność jak na potencjał tej pl
 * [1] Finally, AI for the entire software lifecycle, GitLab.
 * [7] GitHub Copilot Intellectual Property Litigation.
 * [11] Wszystkie notatki z 5/13/2026.
-
-*dodać zmianę
+test zmiany 
