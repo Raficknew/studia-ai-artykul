@@ -4,10 +4,7 @@
 *Wskazówka dla studentów: W tym miejscu wprowadźcie czytelnika w temat. Napiszcie, dlaczego integracja AI z systemami kontroli wersji (VCS) jest obecnie jednym z najważniejszych trendów w IT.*
 
 ## 1. Agentic AI i inteligentna orkiestracja
-**Agentic AI** to koncepcja, w której sztuczna inteligencja przestaje być tylko prostym asystentem, a staje się aktywnym uczestnikiem procesu deweloperskiego [1, 2]. Platformy takie jak GitLab Duo wykorzystują agenty AI do:
-*   **Automatycznej zamiany zgłoszeń (issues) w propozycje zmian (merge requests)** [2, 3].
-*   **Naprawiania luk w zabezpieczeniach** i przeprowadzania wstępnych recenzji kodu [3].
-*   Automatyzacji powtarzalnych zadań, przy jednoczesnym zachowaniu kontroli dewelopera nad procesem [3].
+**Agentic AI** Agentic AI reprezentuje ewolucję sztucznej inteligencji z roli pasywnego narzędzia w kierunku aktywnego uczestnika procesu tworzenia oprogramowania. Zamiast jedynie wykonywać polecenia, AI działa samodzielnie, wspomagając deweloperów w podejmowaniu decyzji i realizacji zadań. Przykładowo, platformy takie jak GitLab Duo wykorzystują agentów AI do automatycznego przekształcania zgłoszeń (issues) w konkretne propozycje zmian (merge requests), co znacząco przyspiesza cykl rozwoju oprogramowania. Ponadto, inteligentni agenci mogą identyfikować i naprawiać luki w zabezpieczeniach, a także przeprowadzać wstępne recenzje kodu, co zwiększa jego jakość i bezpieczeństwo. Dzięki takim mechanizmom powtarzalne i czasochłonne zadania mogą być w dużej mierze zautomatyzowane, podczas gdy deweloperzy zachowują pełną kontrolę nad ostatecznymi decyzjami i kierunkiem rozwoju projektu. Tego rodzaju inteligentna orkiestracja procesów pozwala na bardziej efektywne wykorzystanie zasobów i szybsze wdrażanie innowacji.
 
 ## 2. Ekosystem AI na platformie GitHub
 GitHub rozwija szeroki wachlarz narzędzi wspieranych przez AI, które integrują się bezpośrednio z przepływem pracy programisty [4]. Do kluczowych rozwiązań należą:
