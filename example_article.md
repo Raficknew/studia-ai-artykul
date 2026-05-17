@@ -43,11 +43,8 @@ Nowa konkurencja – pojawiają się alternatywne systemy kontroli wersji oparte
 
 W praktyce oznacza to, że Git 3.0 nie tylko będzie bardziej bezpieczny i nowoczesny, ale też zmusi deweloperów do adaptacji do zmieniającego się krajobrazu narzędzi i praktyk w kontroli wersji.
 
-## 5. Dostępność Github
-W ostatnim czasie github ma bardzo niską dostępność jak na potencjał tej platformy.
-
 ## Podsumowanie
-*Wskazówka: Podsumujcie zebrane informacje. Czy Waszym zdaniem AI zastąpi programistów, czy jedynie zmieni charakter ich pracy z systemem Git? [13, 14]*
+Artykuł pokazuje, że narzędzia AI coraz silniej wspierają cały cykl wytwarzania oprogramowania: od automatyzacji zadań i przeglądów kodu po zarządzanie modelami i bezpieczeństwem. Zyski produktywności są realne, ale wymagają świadomej walidacji jakości, kontroli ryzyka prawnego i odpowiedzialnego użycia danych. Wraz z rozwojem ekosystemu GitHub i nadchodzącymi zmianami w Git 3.0 rola programisty będzie ewoluować w kierunku nadzoru, podejmowania decyzji i definiowania kierunku rozwoju, a nie całkowitego zastąpienia przez AI.
 
 ---
 ### Bibliografia (Przykładowe źródła do uzupełnienia przez grupę)
