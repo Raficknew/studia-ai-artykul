@@ -1,4 +1,4 @@
- # [TYTUŁ ARTYKUŁU: np. AI w służbie kodu – jak sztuczna inteligencja zmienia cykl życia oprogramowania]
+# Wpływ narzędzi AI na produktywność
 
 ## Wstęp
 *Wskazówka dla studentów: W tym miejscu wprowadźcie czytelnika w temat. Napiszcie, dlaczego integracja AI z systemami kontroli wersji (VCS) jest obecnie jednym z najważniejszych trendów w IT.*
@@ -30,6 +30,9 @@ Wyzwania, przed którymi stoi ekosystem, to m.in.:
 *   **Paradoks decentralizacji** – mimo rozproszonej natury Gita, rynek silnie koncentruje się wokół platformy GitHub należącej do Microsoftu [12].
 *   Pojawienie się nowej konkurencji w postaci systemów opartych na **blockchainie** [12, 13].
 
+## 5. Dostępność Github
+W ostatnim czasie github ma bardzo niską dostępność jak na potencjał tej platformy.
+
 ## Podsumowanie
 *Wskazówka: Podsumujcie zebrane informacje. Czy Waszym zdaniem AI zastąpi programistów, czy jedynie zmieni charakter ich pracy z systemem Git? [13, 14]*
 
@@ -39,4 +42,3 @@ Wyzwania, przed którymi stoi ekosystem, to m.in.:
 * [1] Finally, AI for the entire software lifecycle, GitLab.
 * [7] GitHub Copilot Intellectual Property Litigation.
 * [11] Wszystkie notatki z 5/13/2026.
-
