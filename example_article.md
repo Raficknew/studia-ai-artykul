@@ -1,4 +1,4 @@
- # [TYTUŁ ARTYKUŁU: Wpływ narzędzi AI na produktywność]
+# Wpływ narzędzi AI na produktywność
 
 ## Wstęp
 *Wskazówka dla studentów: W tym miejscu wprowadźcie czytelnika w temat. Napiszcie, dlaczego integracja AI z systemami kontroli wersji (VCS) jest obecnie jednym z najważniejszych trendów w IT.*
