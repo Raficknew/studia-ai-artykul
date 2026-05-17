@@ -7,11 +7,14 @@
 **Agentic AI** Agentic AI reprezentuje ewolucję sztucznej inteligencji z roli pasywnego narzędzia w kierunku aktywnego uczestnika procesu tworzenia oprogramowania. Zamiast jedynie wykonywać polecenia, AI działa samodzielnie, wspomagając deweloperów w podejmowaniu decyzji i realizacji zadań. Przykładowo, platformy takie jak GitLab Duo wykorzystują agentów AI do automatycznego przekształcania zgłoszeń (issues) w konkretne propozycje zmian (merge requests), co znacząco przyspiesza cykl rozwoju oprogramowania. Ponadto, inteligentni agenci mogą identyfikować i naprawiać luki w zabezpieczeniach, a także przeprowadzać wstępne recenzje kodu, co zwiększa jego jakość i bezpieczeństwo. Dzięki takim mechanizmom powtarzalne i czasochłonne zadania mogą być w dużej mierze zautomatyzowane, podczas gdy deweloperzy zachowują pełną kontrolę nad ostatecznymi decyzjami i kierunkiem rozwoju projektu. Tego rodzaju inteligentna orkiestracja procesów pozwala na bardziej efektywne wykorzystanie zasobów i szybsze wdrażanie innowacji.
 
 ## 2. Ekosystem AI na platformie GitHub
-GitHub rozwija szeroki wachlarz narzędzi wspieranych przez AI, które integrują się bezpośrednio z przepływem pracy programisty [4]. Do kluczowych rozwiązań należą:
-*   **GitHub Copilot:** Działający jako „AI pair programmer”, który sugeruje bloki kodu na podstawie komentarzy i istniejącej treści [5].
-*   **GitHub Spark:** Narzędzie do budowania i wdrażania inteligentnych aplikacji [4].
-*   **GitHub Models:** Platforma do zarządzania i porównywania promptów [4].
-Sztuczna inteligencja odpowiada już za niemal **40% kodu** w popularnych językach, takich jak Python, w plikach, gdzie Copilot jest włączony [6].
+GitHub rozwija szeroki ekosystem narzędzi wspieranych przez AI, które integrują się bezpośrednio z codziennym przepływem pracy programisty — od podpowiedzi w edytorze, przez automatyzację przeglądów kodu, aż po wdrażanie modeli i endpointów produkcyjnych [4]. Kluczowe elementy tego ekosystemu to:
+* **GitHub Copilot:** „AI pair programmer” sugerujący fragmenty kodu, całe funkcje, testy jednostkowe i poprawki na podstawie kontekstu pliku, komentarzy oraz historii repozytorium; przyspiesza prototypowanie i rutynowe zadania, lecz wymaga weryfikacji przez dewelopera [5].
+* **GitHub Spark:** narzędzie do budowania, trenowania i wdrażania aplikacji generatywnych oraz zintegrowanych workflowów ML, pozwalające łatwiej eksponować modele jako usługi produkcyjne [4].
+* **GitHub Models:** platforma do zarządzania modelami, eksperymentami i promptami — ułatwia porównywanie wariantów, kontrolę wersji artefaktów AI i ocenę jakości odpowiedzi [4].
+* **Integracja z Actions i Codespaces:** AI rozszerza automatyzację CI/CD (np. generowanie workflowów, automatyczne poprawki) oraz rozwija doświadczenie w chmurowym środowisku deweloperskim.
+* **Funkcje bezpieczeństwa i zgodności:** automatyczne skanowanie podatności, sugestie poprawek i wsparcie w zachowaniu zgodności licencyjnej, chociaż w praktyce wymagana jest dalsza walidacja wyników przez zespół bezpieczeństwa.
+
+Raporty wskazują, że w repozytoriach z włączonym Copilotem AI może odpowiadać za nawet około **40%** wygenerowanego kodu w niektórych projektach (np. w Pythonie) — należy jednak podkreślić, że sposób pomiaru, profil projektu i konfiguracja narzędzia wpływają na tę statystykę [6]. W praktyce rozwiązania te poprawiają produktywność, automatyzują zadania powtarzalne i skracają czas wdrożenia, ale nie eliminują potrzeby nadzoru dewelopera, walidacji jakości i uwzględnienia aspektów prawnych oraz licencyjnych.
 
 3. Kontrowersje prawne i kwestie własności intelektualnej
 
@@ -52,4 +55,4 @@ W ostatnim czasie github ma bardzo niską dostępność jak na potencjał tej pl
 * [1] Finally, AI for the entire software lifecycle, GitLab.
 * [7] GitHub Copilot Intellectual Property Litigation.
 * [11] Wszystkie notatki z 5/13/2026.
-test zmiany 
+test zmiany
