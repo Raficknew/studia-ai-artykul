@@ -3,6 +3,9 @@
 ## Cel zadania
 Celem jest przeprowadzenie pelnego cyklu pracy grupowej w GitHub: od forkowania repozytorium, przez prace na galeziach, po recenzje i rozwiazywanie konfliktow.
 
+## Opis cwiczenia i wybrany temat
+W ramach cwiczenia przygotowujemy grupowy artykul w formacie Markdown, pracujac rozproszenie na galeziach i laczac zmiany przez Pull Requesty. Skupiamy sie na poprawnym workflow (fork, branching, code review, rozwiazywanie konfliktow) oraz na jakosci merytorycznej tekstu opartego na zrodlach. Wybralismy temat nr 1: Agentic AI, czyli automatyzacje i orkiestracje w cyklu zycia oprogramowania. Artykul opisuje role agentow AI w DevSecOps, ich wklad w automatyzacje zadan oraz wplyw na szybkosc i jakosc wytwarzania oprogramowania.
+
 ## Tematyka artykulu (do wyboru przez sekcje w grupie)
 Artykul powinien byc napisany w Markdown i opierac sie na zrodlach. Mozliwe obszary:
 
