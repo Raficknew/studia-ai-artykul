@@ -23,12 +23,16 @@ Rozwój narzędzi AI w ekosystemie Git nie odbywa się bez przeszkód. Najwięks
 *   Ryzyko, że AI może sugerować duże fragmenty kodu objęte licencją bez powiadomienia o tym użytkownika [5].
 
 ## 4. Przyszłość kontroli wersji i Git 3.0
-Przyszłość Gita to połączenie stabilności technicznej z nowymi standardami. Spodziewane wydanie **Git 3.0** (koniec 2026 r.) wprowadzi nazwę `main` jako domyślną oraz kontynuację migracji na bezpieczniejszy algorytm **SHA-256** [10, 11]. 
 
-Wyzwania, przed którymi stoi ekosystem, to m.in.:
-*   **Skalowalność monorepozytoriów** i obsługa bardzo dużych plików [12].
-*   **Paradoks decentralizacji** – mimo rozproszonej natury Gita, rynek silnie koncentruje się wokół platformy GitHub należącej do Microsoftu [12].
-*   Pojawienie się nowej konkurencji w postaci systemów opartych na **blockchainie** [12, 13].
+Przyszłość Gita będzie łączyć sprawdzoną stabilność techniczną z nowymi standardami bezpieczeństwa i użyteczności. Planowane wydanie Git 3.0, przewidziane na koniec 2026 roku, przyniesie kilka istotnych zmian, m.in. wprowadzenie main jako domyślnej nazwy głównej gałęzi oraz pełniejszą migrację na bezpieczniejszy algorytm SHA-256, co zwiększy odporność systemu na kolizje i ataki kryptograficzne [10, 11].
+
+Ekosystem Gita stoi jednak przed kilkoma wyzwaniami:
+
+Skalowalność monorepozytoriów – rosnące projekty wymagają lepszej obsługi ogromnych repozytoriów i dużych plików, co wymusza innowacje w zarządzaniu danymi [12].
+Paradoks decentralizacji – choć Git jest narzędziem rozproszonym, rynek pozostaje silnie skoncentrowany wokół platformy GitHub, należącej do Microsoftu, co rodzi pytania o prawdziwą niezależność ekosystemu [12].
+Nowa konkurencja – pojawiają się alternatywne systemy kontroli wersji oparte na technologii blockchain, oferujące inne podejście do przechowywania historii i decentralizacji [12, 13].
+
+W praktyce oznacza to, że Git 3.0 nie tylko będzie bardziej bezpieczny i nowoczesny, ale też zmusi deweloperów do adaptacji do zmieniającego się krajobrazu narzędzi i praktyk w kontroli wersji.
 
 ## 5. Dostępność Github
 W ostatnim czasie github ma bardzo niską dostępność jak na potencjał tej platformy.
