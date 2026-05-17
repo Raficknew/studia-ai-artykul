@@ -39,3 +39,6 @@ Wyzwania, przed którymi stoi ekosystem, to m.in.:
 * [1] Finally, AI for the entire software lifecycle, GitLab.
 * [7] GitHub Copilot Intellectual Property Litigation.
 * [11] Wszystkie notatki z 5/13/2026.
+
+
+test test test
